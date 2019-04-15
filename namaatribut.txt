@@ -1,0 +1,23 @@
+NIK nikck
+Nama Lengkap namack
+Tempat Lahir tempatck
+Tanggal Lahir tanggalck
+Pendidikan Terakhir pendidikanck
+Email emailck
+Nomor HP nomorck
+Jenis Kelamin jenisck
+Asal Partai partaick
+
+Bakal Calon Wakil Presiden
+
+NIK nikcw
+Nama Lengkap namacw
+Tempat Lahir tempatcw
+Tanggal Lahir tanggalcw
+Pendidikan Terakhir pendidikancw
+Email emailcw
+Nomor HP nomorcw
+Jenis Kelamin jeniscw
+Asal Partai partaicw
+Visi
+Misi

@@ -1,0 +1,53 @@
+//membuat array menggunakan json, dengan nama array data
+{  
+      "data"     :     [  
+           {  
+                "nama": "Shyffa Ilmallia Noer Fhadillah",  
+                "jeniskelamin": "Perempuan",  
+                "tempatlahir": "Bandung",
+                "tanggallahir": "12 Februari 1998",  
+                "agama": "Islam",  
+                "nim": "1301164120",                                              
+                "kelas": "IF-40-05",  
+                "jurusan": "S1 Teknik Informatika",  
+                "email": "shyffainf@yahoo.com", 
+                "moto": "Hidup Hanya Sekali, Maka Hiduplah Yang Berarti"
+           },  
+           {  
+                "nama": "Diniyal Amru Agatsa",  
+                "jeniskelamin": "Perempuan",  
+                "tempatlahir": "Kuninngan",
+                "tanggallahir": "31 Juli 1998",  
+                "agama": "Islam",  
+                "nim": "1301160083", 
+                "kelas": "IF-40-05",  
+                "jurusan": "S1 Teknik Informatika",  
+                "email": "diniyalamruagatsa1@gmail.com", 
+                "moto": "Bahagia Untuk Membahagiakan"
+           },  
+           {                  
+                "nama": "Yuriza Mufidah",  
+                "jeniskelamin": "Perempuan",  
+                "tempatlahir": "Pekanbaru",
+                "tanggallahir": "18 September 1998",  
+                "agama": "Islam",  
+                "nim": "1301164365", 
+                "kelas": "IF-40-05",  
+                "jurusan": "S1 Teknik Informatika",  
+                "email": "shasyamufidah@gmail.com", 
+                "moto": "Usaha Tidak Mengkhianati Hasil"
+           },  
+           {  
+                "nama": "Fauziah Giyanti",  
+                "jeniskelamin": "Perempuan",  
+                "tempatlahir": "Bekasi",
+                "tanggallahir": "29 November 1998",  
+                "agama": "Islam",  
+                "nim": "1301164352", 
+                "kelas": "IF-40-05",  
+                "jurusan": "S1 Teknik Informatika",  
+                "email": "fauzia.giyanti@gmail.com", 
+                "moto": "Bersyukur Cara Untuk Selalu Merasa Cukup"
+           } 
+      ]  
+ }  
